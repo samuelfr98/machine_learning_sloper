@@ -1,0 +1,1 @@
+Comparing multiple version of LSTM RNN models for predicting stock closing prices. Some example flavors of model include simple tweaks to number of epochs, customizations for given stock qualities, and variations in loss functions. More significant differences include variations in prediction shape and implemented forecasting architecture.
